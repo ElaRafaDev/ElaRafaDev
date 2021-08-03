@@ -15,5 +15,5 @@
   <img align="center" alt="Rafa" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
   <img align="center" alt="Rafa" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Rafa" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"><br> 
-  <img align="right" alt="Rafa" height="200" width="220" src="https://static.wikia.nocookie.net/minecraft/images/6/6a/Axolotls_Swimming.gif/revision/latest?cb=20201219210623">
+  <img align="center" alt="Rafa" height="200" width="220" src="https://static.wikia.nocookie.net/minecraft/images/6/6a/Axolotls_Swimming.gif/revision/latest?cb=20201219210623">
 </div>
