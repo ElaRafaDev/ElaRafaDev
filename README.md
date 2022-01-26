@@ -12,5 +12,5 @@
   <img align="center" alt="Rafa" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="Rafa" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Rafa" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Rafa" height="200" width="220" src="https://static.wikia.nocookie.net/minecraft/images/6/6a/Axolotls_Swimming.gif/revision/latest?cb=20201219210623">
+  <img align="right" alt="Rafa" height="200" width="220" src="https://static.wikia.nocookie.net/minecraft/images/6/6a/Axolotls_Swimming.gif/revision/latest?cb=20201219210623">
 </div>
